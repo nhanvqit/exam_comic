@@ -48,9 +48,9 @@
                     </div>
 
                     <div class="field half">
-                        <form:input path="imageCover" placeholder="Description"/>
+                        <form:input path="imageCover"  placeholder="Imcage Cover URL"/>
                         <form:errors path="imageCover" cssClass="alert-danger"/>
-                    </div>
+                    </div
 
 <%--                    <div id="imagePreview" class="field half">--%>
 <%--                        <div class="progress d-none" id="uploadImageProgressContainer">--%>
