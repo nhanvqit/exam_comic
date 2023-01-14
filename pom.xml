@@ -69,7 +69,7 @@
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-c3p0</artifactId>
-            <version>5.5.6.Final</version>
+            <version>5.6.14.Final</version>
         </dependency>
 
         <!-- connect mysql driver -->
