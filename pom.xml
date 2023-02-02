@@ -14,7 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <junit.version>5.7.1</junit.version>
         <springframework.version>5.3.20</springframework.version>
-        <springsecurity.version>5.5.7</springsecurity.version>
+        <springsecurity.version>5.8.1</springsecurity.version>
     </properties>
 
     <dependencies>
